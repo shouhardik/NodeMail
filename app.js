@@ -4,7 +4,7 @@ const transporter=nodemailer.createTransport({
     service:"hotmail",
     auth:{
         user:"shomsaha77@outlook.com",
-        pass:"gsrhshw1"
+        pass:""
     }
 })
 
